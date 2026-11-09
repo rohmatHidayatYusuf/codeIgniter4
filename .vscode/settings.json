@@ -1,0 +1,9 @@
+{
+    "editor.formatOnSave": true,
+    "[php]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "DEVSENSE.phptools-vscode"
+    },
+    "workbench.colorTheme": "Monokai Dimmed",
+    "editor.fontSize": 14
+}
